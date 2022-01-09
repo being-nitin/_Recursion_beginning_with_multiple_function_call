@@ -30,3 +30,6 @@ public class Main {
         System.out.println("Hello world");
     }
 }
+/* in this one function is calling another function where the operation is same only
+   the name of method is different.
+ */
